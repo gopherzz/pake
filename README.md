@@ -1,5 +1,5 @@
 # Pake
-**Pake is Makefile Generator written in Python**
+**Pake is Simple Makefile Generator written in Python**
 ## Using Pike
 **pakeConfig.toml**
 
