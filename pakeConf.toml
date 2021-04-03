@@ -1,0 +1,12 @@
+[executable]
+name = 'TestExe'
+exec_name = 'test'
+language = 'c'
+sources = 'main.c src/min.c'
+
+
+# [library]
+# type = 'shared' # 'static' as default
+# lib_name = 'TestLib'
+# sources = 'main.cpp test.cpp'
+# language = 'cpp'
